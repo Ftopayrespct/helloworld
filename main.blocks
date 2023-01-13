@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="brj%%4RggP::VcT4Viu`" x="205" y="-54"><statement name="HANDLER"><block type="basic_show_icon" id="tXTBeWE22w8sX]g2oE.G"><field name="i">IconNames.Asleep</field><next><block type="device_show_leds" id="gEi0Ne~8fk89tfj:5@pJ"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="brj%%4RggP::VcT4Viu`" x="205" y="-54"><statement name="HANDLER"><block type="device_show_leds" id="gEi0Ne~8fk89tfj:5@pJ"><field name="LEDS">`
         # . . . # 
         # . . . # 
         # # # # # 
@@ -10,4 +10,4 @@
         . . # . . 
         . . # . . 
         . . # . .
-        `</field></block></next></block></next></block></statement></block><block type="device_forever" id="3%]%aB-+3PwQ]/w%j%5x" x="0" y="0"></block><block type="device_button_event" id="6Ij2Fuf)P:|A21@!~:XQ" x="46" y="151"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="DY4a~W#Vx,KB.qr#snCL"><field name="i">IconNames.Happy</field></block></statement></block><block type="device_button_event" id="EnsrFAi#s|(zg5R4wZ;#" x="397" y="139"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="JSxq=OrSX9K1==D.2qRM"><field name="i">IconNames.Sad</field></block></statement></block></xml>
+        `</field><next><block type="basic_show_icon" id="tXTBeWE22w8sX]g2oE.G"><field name="i">IconNames.Asleep</field></block></next></block></next></block></statement></block><block type="device_forever" id="3%]%aB-+3PwQ]/w%j%5x" x="0" y="0"></block><block type="device_button_event" id="6Ij2Fuf)P:|A21@!~:XQ" x="46" y="151"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="DY4a~W#Vx,KB.qr#snCL"><field name="i">IconNames.Happy</field></block></statement></block><block type="device_button_event" id="EnsrFAi#s|(zg5R4wZ;#" x="397" y="139"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="JSxq=OrSX9K1==D.2qRM"><field name="i">IconNames.Sad</field></block></statement></block></xml>
