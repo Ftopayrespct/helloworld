@@ -5,6 +5,20 @@ input.onButtonPressed(Button.B, function () {
     basic.showIcon(IconNames.Happy)
 })
 basic.showIcon(IconNames.Asleep)
+basic.showLeds(`
+    # . . . #
+    # . . . #
+    # # # # #
+    # . . . #
+    # . . . #
+    `)
+basic.showLeds(`
+    . . # . .
+    . . . . .
+    . . # . .
+    . . # . .
+    . . # . .
+    `)
 basic.forever(function () {
 	
 })
